@@ -19,7 +19,6 @@ A simple rock paper scissors game developed with HTML, CSS, and JS.
 
   
 ## Authors
-- Built by the "Bug Off" team.
     - [Christina](https://github.com/Not-Macaroni)
     - [Naman](https://github.com/namanrai)
     - [Jeffrey](https://github.com/PLtheRobot)
