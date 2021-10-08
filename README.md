@@ -19,9 +19,9 @@ A simple rock paper scissors game developed with HTML, CSS, and JS.
 
   
 ## Authors
+- The team:
     - [Christina](https://github.com/Not-Macaroni)
     - [Naman](https://github.com/namanrai)
     - [Jeffrey](https://github.com/PLtheRobot)
 
 
-  
