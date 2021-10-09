@@ -18,10 +18,14 @@ A simple rock paper scissors game developed with HTML, CSS, and JS.
 
 - **Functional Requirements:**
 
-    - The user must be able to play a session of rock-paper-scissors
-    - The user must be able to play one or more games a session.
-    - The user must have the option to choose to end the session any time a game ends.
-    - The user must have the option to choose to continue the session any time a game ends.
+    - The user must be able to play a session of rock-paper-scissors.
+    - The user must be able to play one or more games a session after a session ends by clicking the 'Reset Game' button.
+    - The user must have the option to choose to end the session any time a game ends by clicking the 'End Game' button.
+    - The user must have the option to choose to continue the session any time a game ends by clicking the 'Next Round' button. 
+    - The user can view the total number of games won and lost and also the total number of games played on the left side.
+    - The user can view the rules of the game by clicking the 'Rules' button on the right side.
+    - The user can click the images of rock, paper and scissors to play the game at the center of the screen.
+    - The user will be prompted to confirm their selection by clicking the 'Yes' button after clicking the image.
 
 
 
