@@ -25,8 +25,10 @@ A simple rock paper scissors game developed with HTML, CSS, and JS.
     - The total number of games won and lost and also the total number of games played are displayed on the left side.
     - The rules of the game can be viewed by clicking the 'Rules' button on the right side.
     - Images of rock, paper and scissors will be displayed in the center of the screen. 
+    - User will be prompted via a message on screen to select an image.
     - The images of rock, paper and scissors can be clicked to make a selection for the game.
     - Selections will be confirmed by clicking the 'Yes' button after clicking the image.
+    - The other two images will disappear after making a selection in order to prevent multiple choices.
     - Win rate for the current session will be displayed on screen when the session is ended.
 
 
