@@ -18,25 +18,29 @@ A simple rock paper scissors game developed with HTML, CSS, and JS.
 
 ## Functional Requirements:
 
-    -Basic Functionality
-         - Games can be played against the server or against another player.
-         - One or more games can be played a session after a session ends by clicking the 'Reset Game' button.
+**Basic Functionality:**
 
-    -Gameplay
-        - Images of rock, paper and scissors will be displayed in the center of the screen.
-        - User will be prompted via a message on screen to select an image.
-        - The images of rock, paper and scissors can be clicked to make a selection for the game.
-        - Selections will be confirmed by clicking the 'Yes' button after clicking the image.
-        - The other two images will disappear after making a selection in order to prevent multiple choices.
+      - Games can be played against the server or against another player.
+      - One or more games can be played a session after a session ends by clicking the 'Reset Game' button.
 
-    -After End
-        - The current session can be continued any time a game ends by clicking the 'Next Round' button. 
-        - Win rate for the current session will be displayed on screen when the session is ended.
+ **Gameplay:**
+ 
+      - Images of rock, paper and scissors will be displayed in the center of the screen.
+      - User will be prompted via a message on screen to select an image.
+      - The images of rock, paper and scissors can be clicked to make a selection for the game.
+      - Selections will be confirmed by clicking the 'Yes' button after clicking the image.
+      - The other two images will disappear after making a selection in order to prevent multiple choices.
 
-    -Landing Page
-        - User can start the game by clicking the "Start" button at the center.
-        - The total number of games won and lost and also the total number of games played are displayed by clicking the "Scores" button on the left side.
-        - The rules of the game can be viewed by clicking the 'Rules' button on the right side.
+ **After End:**
+ 
+      - The current session can be continued any time a game ends by clicking the 'Next Round' button. 
+      - Win rate for the current session will be displayed on screen when the session is ended.
+
+ **Landing Page:**
+ 
+      - User can start the game by clicking the "Start" button at the center.
+      - The total number of games won and lost and also the total number of games played are displayed by clicking the "Scores" button on the left side.
+      - The rules of the game can be viewed by clicking the 'Rules' button on the right side.
 
 
 
