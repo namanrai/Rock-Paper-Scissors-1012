@@ -22,14 +22,14 @@ A simple rock paper scissors game developed with HTML, CSS, and JS.
 
       - Games can be played against the server or against another player.
       - One or more games can be played a session after a session ends by clicking the 'Reset Game' button.
+      - Game can be stopped by clciking the "End Game" button.
 
  **Gameplay:**
  
       - Images of rock, paper and scissors will be displayed in the center of the screen.
       - User will be prompted via a message on screen to select an image.
       - The images of rock, paper and scissors can be clicked to make a selection for the game.
-      - Selections will be confirmed by clicking the 'Yes' button after clicking the image.
-      - The other two images will disappear after making a selection in order to prevent multiple choices.
+      - The user's and opponent's choices will be displayed in the center.
 
  **After End:**
  
