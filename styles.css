@@ -215,11 +215,16 @@ body {
     font-family: Google Sans;
     margin: 0;
     padding: 0;
+    background-image: url("images/wall.png");
+    background-color: #19181d;
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
 }
 
 .header {
-    background-color: black;
-    color: aliceblue;
+    background-color: #19181d;
+    color: white;
     text-align: center;
     padding-bottom: 1%;
     margin-bottom: 10px;
@@ -227,7 +232,7 @@ body {
 
 .footer {
     position: fixed;
-    background-color: black;
+    background-color: #19181d;
     color: aliceblue;
     text-align: left;
     padding-bottom: 1%;
@@ -304,6 +309,10 @@ body {
     content: "";
     display: table;
     clear: both;
+  }
+
+  .row {
+    margin-top: 4.5rem;
   }
   
   @media screen and (max-width: 600px) {
