@@ -1,7 +1,7 @@
 
 # EECS1012 - Rock Paper Scissors
 
-A simple rock paper scissors game developed with HTML, CSS, and JS.
+A simple rock paper scissors game developed with HTML, CSS, and JS. This branch contains an (unfinished) basic user interface.
 
 
 

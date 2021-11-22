@@ -1,0 +1,64 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="utf-8">
+    <title>Bug Off - Rock Paper Scissors</title>
+    <meta name="description" content="Rock Paper Scissors">
+    <meta name="author" content="Bug Off Team" />
+    <meta name="viewport"
+        content="width=device-width, initial-scale=1.0, minimum-scale=1.0, maximum-scale=1.0, user-scalable=no">
+    <link rel="stylesheet" media="screen" href="styles.css">
+</head>
+
+<script src="script.js"></script>
+<body>
+    <div class="header">
+        <br>
+        BUG OFF - ROCK PAPER SCISSORS
+    </div>
+
+    <div class="row">
+        <div class="bcolumn1">
+            <button onclick="openScores()">Scores</button>
+        </div>
+        <div class="bcolumn2">
+            <button onclick="startClick()">Start</button>
+        </div>
+        <div class="bcolumn3">
+            <button>Rules</button>
+        </div>
+    </div>
+
+    <div class="modal" id="modal">
+        <div class="modal-content">
+            <div class="modal-header">
+                <span class="close-btn"onclick="closeModal()">&times;</span>
+                <h1>Placeholder</h1>
+            </div>
+            
+        </div>
+    </div>
+
+    <div class="row">
+        <div id="scores" class="column1">
+        </div>
+        <div class="column2">
+            <div class="choices">
+                <img class="choice" src="images/rock.png" width="15%" height="15%"><img>
+                <img class="choice" src="images/paper.png" width="15%" height="15%"><img>
+                <img class="choice" src="images/scissor.png" width="15%" height="15%"><img>
+            </div>
+        </div>
+        <div class="column3">
+        </div>
+    </div>
+
+    <div class="footer">
+        <br>
+        &#169; 2021 BUG OFF
+    </div>
+
+</body>
+
+</html>
